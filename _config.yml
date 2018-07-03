@@ -1,0 +1,11 @@
+# basic options
+title: Your awesome title
+author: Oluwaseun Awotodunbo
+email: nuesleinad@hotmail.com
+description: A test blog
+twitter_username: I shall update
+github_username: I shall update 2
+
+# Build settings
+markdown: kramdown
+theme: minima
