@@ -2,9 +2,9 @@
 title: Your awesome title
 author: Oluwaseun Awotodunbo
 email: nuesleinad@hotmail.com
-description: A test blog
-twitter_username: I shall update
-github_username: I shall update 2
+description: Test Blog
+twitter_username: update1
+github_username: update2
 
 # Build settings
 markdown: kramdown
